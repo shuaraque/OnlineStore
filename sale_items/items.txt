@@ -1,0 +1,10 @@
+Blue T-shirt, women sleeveless blue t-shirt,10.99,44,10,1,5
+Gray-blackish T-shirt, women sleeveless black and gray t-shirt,10.99,32,10,0,5
+Sky-Blue Dress, fashionable short dress sheer lace,21.99,55,0,0,7
+Black Pants, black sweat pants,8.99,62,13,1,4
+Light-Green sandals, low heels light green sandals,30.99,34,1,10,5
+Kid Orange-and-Blue T-shirt, kids orange and blue stripes t-shirt,10.99,11,0,1,15
+Kid Orange T-shirt, orange long sleeve kids tshirt,10.99,30,16,13,2
+Black Jacket, black cut sleeve jacket with a zip,10.99,45,1,0,0
+Kid pink T-shirt, kids polo light pink t-shirt,10.99,76,12,15,2
+Pink shoes, pink girls shoes,30.99,38,13,17,3
